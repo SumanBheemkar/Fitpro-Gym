@@ -1,6 +1,7 @@
 # Fitpro-Gym- 
 
-https://github.com/SumanBheemkar/Fitpro-Gym/blob/main/Fitpro_logo.png
+![Project Image Placeholder](https://github.com/SumanBheemkar/Fitpro-Gym/blob/main/Fitpro_logo.png)
+
 This project reflects how data-driven analysis can directly support business objectives by transforming raw data into actionable insights
 
 Welcome to my SQL project, where I analyze real-world style data from FitPro Gym. The dataset contains 10,000 visit records, and through structured queries, I explore membership trends, demographics, and visit behavior. The goal is to answer key business questions that can help a fitness center better understand its customer base, increase retention, and optimize services.
