@@ -21,7 +21,7 @@ SQL Scripts – Code for schema creation and analysis queries.
 Dataset – Realistic data on gym visits, membership, and demographics.
 Analysis – SQL queries addressing business scenarios and performance metrics.
 
-Database Schema
+# Database Schema
 1. Members Table
 member_id: Unique identifier for each member
 name: Name of the member
@@ -55,7 +55,7 @@ Average member age grouped by membership type.
 Total visits by date.
 Members by status (Active vs Cancelled).
 
-Advanced Queries
+# Advanced Queries
 Top 3 members with highest visits.
 Recently joined active Monthly members.
 Members with more than 2 visits (top 5).
