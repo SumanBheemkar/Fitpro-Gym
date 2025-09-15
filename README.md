@@ -1,4 +1,4 @@
-# Fitpro-Gym- 
+# Fitpro-Gym
 
 ![Project Image Placeholder](https://github.com/SumanBheemkar/Fitpro-Gym/blob/main/Fitpro_logo.png)
 
